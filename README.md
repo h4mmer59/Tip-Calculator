@@ -1,2 +1,3 @@
 # Tip-Calculator
-A simple program to give you your total meal cost (with tax) and calculate your tip with you customizable percentages
+
+This file is protected under copyright laws. Any distribution without rightful contact of the owner can/will result in legal consequences
